@@ -13,8 +13,10 @@ While I can't share the source code due to confidentiality, I've included descri
 ### **Features:**  
 - Used for academic management by class teachers and regular teachers.  
 - Teachers can view their timetable, student list, mark attendance, conduct exams, and enter marks.  
-- Teachers can upload assignments, study materials, and more.  
+- Teachers can upload assignments, study materials, and more.
+- 
 **Screenshots**
+  
 ![FP1](https://github.com/user-attachments/assets/70237219-5f12-40a4-9c86-7bb1cf265da3)
 ![FP2](https://github.com/user-attachments/assets/a692224a-818d-41b4-a5ee-6bc4da13831f)
 ![FP3](https://github.com/user-attachments/assets/8362aef9-1cab-4cbd-8d44-8f3c8d4a5daf)
@@ -28,7 +30,9 @@ While I can't share the source code due to confidentiality, I've included descri
 - Sales representatives can submit daily reports.  
 - Allows users to log customer interactions and mark product inquiries as potential leads.  
 - Features a pie chart visualization for different sales lead stages.
+- 
 **Screenshots**
+  
 ![SF1](https://github.com/user-attachments/assets/6b5285d8-268b-4dc3-8ddc-220d36e253c6)
 ![SF2](https://github.com/user-attachments/assets/6c06533a-44eb-4e43-af9c-44f9087a44c0)
 ![SF3](https://github.com/user-attachments/assets/b286f730-9e24-4f28-b4ef-a328569fedcf)
@@ -42,7 +46,9 @@ While I can't share the source code due to confidentiality, I've included descri
 - Ability to track asset purchases, audits, and disposals.  
 - A dashboard with pie charts displaying asset distribution by sub-category and department.  
 - Asset summary includes total asset count and value.
+- 
 **Screenshots**
+  
 ![AM1](https://github.com/user-attachments/assets/b933fef2-4ee1-48d5-a699-9f8dda9c50be)
 ![AM7](https://github.com/user-attachments/assets/7e43facd-5ad0-4191-bbfe-7f4a1bf63efd)
 ![AM6](https://github.com/user-attachments/assets/d0a86d55-ff31-4010-a203-52ad7b18f585)
@@ -68,8 +74,10 @@ While I can't share the source code due to confidentiality, I've included descri
 - Today's Delivery Map Integration –
       Opens Google Maps within the app.
       Delivery locations for the day are marked in red.
-      Customers along the van’s route are marked in blue to facilitate direct invoicing.  
+      Customers along the van’s route are marked in blue to facilitate direct invoicing.
+  
 **Screenshots**
+
 ![VS1](https://github.com/user-attachments/assets/8a9d247a-d6f4-4306-827e-d69b518d1edc)
 ![VS2](https://github.com/user-attachments/assets/8b5a5721-e0c4-4d25-936c-85e6203df790)
 ![VS3](https://github.com/user-attachments/assets/180a7cdd-0cd2-43e5-9c7d-6ec8db323c88)
@@ -103,8 +111,10 @@ While I can't share the source code due to confidentiality, I've included descri
   - Billwise adjustment of payments  
 
 - **Reports & Insights**  
-  - Detailed reports for sales, purchases, stock, payments, and receivables/payables  
+  - Detailed reports for sales, purchases, stock, payments, and receivables/payables
+  - 
 **Screenshots**
+
 ![TE1](https://github.com/user-attachments/assets/a1abc8ba-3ad7-4f66-a60d-0b6f87c3bcc0)
 ![TE6](https://github.com/user-attachments/assets/83aab109-bac3-4301-be71-12406e460383)
 ![TE5](https://github.com/user-attachments/assets/9404a5d8-7081-4cf9-b3ad-c20da6e471a1)
@@ -113,16 +123,16 @@ While I can't share the source code due to confidentiality, I've included descri
 ![TE2](https://github.com/user-attachments/assets/ee63f375-c6c1-4529-8a9a-b9c217350a11)
 
 
-
-
 ## 📌 6. Retail POS App
 **Tech Stack:** Flutter, Firebase, Pine Labs Integration  
 **Description:** A POS app that allows retailers to manage sales, inventory, and payments.  
 **Features:**  
 -  Integrated with Pine Labs for seamless transactions  
 -  App-to-app payment integration using method channels  
--  Real-time inventory management 
+-  Real-time inventory management
+  
 **Screenshots**
+
 ![AG1](https://github.com/user-attachments/assets/8779ce4d-91b6-4214-99b8-ee6f3b4e6a66)
 ![AG2](https://github.com/user-attachments/assets/f3428163-5732-48a4-b6a9-8b094bdbd134)
 ![AG3](https://github.com/user-attachments/assets/e06d46da-c0bb-4591-8bdb-0117a3c5ab13)
@@ -135,8 +145,10 @@ While I can't share the source code due to confidentiality, I've included descri
 - User registration with profile setup.  
 - Advanced filtering based on location, preferences, and other qualifications.  
 - Secure messaging and interest-based matchmaking.  
-- Push notifications for profile matches and messages.  
+- Push notifications for profile matches and messages.
+- 
 **Screenshots**
+  
 ![MA1](https://github.com/user-attachments/assets/0a8926d3-e785-416b-9a2e-1e0b5a672454)
 ![MA2](https://github.com/user-attachments/assets/cf849448-ae40-46d1-a6ee-460e39736a1c)
 ![MA3](https://github.com/user-attachments/assets/4796482b-f34c-4766-b4ae-55eb133a2354)
